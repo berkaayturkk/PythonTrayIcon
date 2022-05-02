@@ -1,3 +1,4 @@
-#Gerekli Kütüphaneler
-pystray -> pip install pystray
-pillow -> pip install pillow
+#Requirements
+	- pystray -> pip install pystray
+	- pillow -> pip install pillow
+
