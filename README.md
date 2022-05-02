@@ -1,3 +1,3 @@
-#Gerekli Kütüphaneler
-pystray -> pip install pystray
-pillow -> pip install pillow
+# Gerekli Kütüphaneler
+## pystray -> pip install pystray
+## pillow -> pip install pillow
