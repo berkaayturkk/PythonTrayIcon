@@ -14,7 +14,7 @@ icon = pystray.Icon("Linux", image, menu = pystray.Menu( #Tray iconumuzu tanıml
 	pystray.MenuItem("Tıklandı yaz", on_clicked), #Sağ tıkladığımızda çıkan menüye item ekledik
 	pystray.MenuItem("Çıkış", on_clicked),
 	pystray.MenuItem("Menü içinde Menü", pystray.Menu(
-		pystray.MenuItem("Alt menü",on_clicked)
+		pystray.MenuItem("Alt menü",on_clicked) #Alt bir menü tanımladık
 		))
 ))
 
