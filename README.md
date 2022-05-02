@@ -1,4 +1,4 @@
 #Requirements
-	- pystray -> pip install pystray
-	- pillow -> pip install pillow
++- pystray -> pip install pystray
++- pillow -> pip install pillow
 
